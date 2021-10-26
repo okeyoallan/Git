@@ -5,3 +5,8 @@
 git pull
 ```
 which is way simple
+- In addition, I have managed to update my remote repo with chnages I have made locally by 
+```
+git push
+```
+
